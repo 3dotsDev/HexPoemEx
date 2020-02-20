@@ -1,0 +1,4 @@
+# Project exclude paths
+/ConsoleClient/target/
+/Domain/target/
+/Infrastructure/target/
